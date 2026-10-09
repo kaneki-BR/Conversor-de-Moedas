@@ -48,7 +48,7 @@ Revemar.ConversorMoedas/
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/Conversor-de-Moedas.git
+   git clone https://github.com/Kaneki_BR/Conversor-de-Moedas.git
    cd Conversor-de-Moedas
    ```
 
